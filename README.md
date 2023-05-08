@@ -28,7 +28,6 @@ The main objectives of this project are as follows:
 - `lyrics/`: Contains the scraped lyrics data for Manowar and Hammerfall.
 - `notebooks/`: Jupyter notebooks that showcase the step-by-step analysis, including web scraping, data preprocessing, and model training.
 - `src/`: Source code files for data preprocessing, model implementation, and deployment.
-- `models/`: Saved trained models for text classification.
 - `results/`: Output files, visualizations, and evaluation metrics generated during the analysis.
 - `README.md`: Project overview and instructions for running the code.
 
