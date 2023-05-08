@@ -1,5 +1,5 @@
 # Supervised Machine Learning Project: Text Classification of Song Lyrics
-**[NLP, Web Scrapping, Beautiful Soup, Vectorization]**
+**[NLP, Web Scrapping, Beautiful Soup, Text Vectorization]**
 
 ## Introduction
 
